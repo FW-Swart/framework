@@ -1,0 +1,17 @@
+{
+    "name": "swart/fw",
+    "description": "code along php framework",
+    "authors": [
+        {
+            "name": "FW-Swart",
+            "email": "folkert@swartwerk.nl"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.2"
+    },
+    "autoload": {
+		"classmap": [ "./" ]
+	}
+
+}
